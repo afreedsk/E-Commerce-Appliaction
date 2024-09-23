@@ -26,9 +26,6 @@ https://api-ecom.up.railway.app//swagger-ui/index.html#/
 - Maven
 - Axios
 
-## Schema Table
-![ER_diagram](https://github.com/afreedsk/E-Commerce-Application/assets/119284680/3bd9f9b8-29a8-42fe-93fd-daa931d46c70)
-
 ## Features
 
 - User registration and login with JWT authentication
