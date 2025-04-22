@@ -146,12 +146,3 @@ Open your web browser and navigate to the following URL:
 
 ```
 http://localhost:3000
-
-
-You should now see the React frontend of the Ecommerce Application running locally.
-
-## Links
-
-This project uses the following open source libraries:
-
-- [Spring Boot](https://spring.io/projects/spring-boot)
